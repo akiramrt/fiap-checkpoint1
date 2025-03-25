@@ -1,7 +1,11 @@
 
-# API - Pedido (Checkpoint 01)
+# API - API SpringBoot de Pedidos (Checkpoint 01)
 
 API REST para gerenciamento de pedidos.
+
+## Owner
+
+ - Eduardo Akira Murata (RM98713)
 
 ## 📦 Endpoints
 
