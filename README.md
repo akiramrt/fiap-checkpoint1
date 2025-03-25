@@ -161,12 +161,12 @@ Chama a camada de `Service` para processar os dados e retorna os resultados como
 
 ---
 
-## 🧱 Executar o Projeto
+## Passos Para Executar o Projeto
 
-### 📂 Terminal
-**`Pedido.java`**  
-Verificar a pasta que está sendo executado os comando
+### Visualize o Terminal
 
-- `java --version`
-- `mvn --version`
-- `mvn spring-boot:run`
+- `Execute o comendo 'ls' para verificar o diretório que você está` 
+- `Caso necessário, execute o comando 'cd (nome-pasta)'` 
+- `Verifique se você tem o java instalado na sua máquina: java --version`
+- `Verifique se você tem o maven instalado na sua máquina: mvn --version`
+- `Execute a API executando o comando: mvn spring-boot:run`
