@@ -161,6 +161,22 @@ Chama a camada de `Service` para processar os dados e retorna os resultados como
 
 ---
 
+
+## 📸 Exemplos de Requisições no Insomnia
+![Screenshot 2025-03-25 at 18.32.34.png](./Screenshot%202025-03-25%20at%2018.32.34.png)
+
+![Screenshot 2025-03-25 at 18.32.55.png](./Screenshot%202025-03-25%20at%2018.32.55.png)
+
+![Screenshot 2025-03-25 at 18.33.06.png](./Screenshot%202025-03-25%20at%2018.33.06.png)
+
+![Screenshot 2025-03-25 at 18.33.19.png](./Screenshot%202025-03-25%20at%2018.33.19.png)
+
+![Screenshot 2025-03-25 at 18.33.34.png](./Screenshot%202025-03-25%20at%2018.33.34.png)
+
+
+---
+
+
 ## Passos Para Executar o Projeto
 
 ### Visualize o Terminal
