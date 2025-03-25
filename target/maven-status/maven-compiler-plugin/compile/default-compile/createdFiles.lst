@@ -1,0 +1,5 @@
+br/com/fiap/checkpoint01/repository/PedidoRepository.class
+br/com/fiap/checkpoint01/controller/PedidoController.class
+br/com/fiap/checkpoint01/Checkpoint01Application.class
+br/com/fiap/checkpoint01/model/Pedido.class
+br/com/fiap/checkpoint01/service/PedidoService.class
